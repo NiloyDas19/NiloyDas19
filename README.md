@@ -3,7 +3,7 @@
 #### Now
 
 - ✨ 2nd year Undergraduate Student
-- :fire: Interested in Competitive Programming;
+- :fire: Interested in Competitive Programming
 
 #### Bio
 

@@ -48,7 +48,7 @@
   <a href="https://www.hackerrank.com/Niloy_Das_19">
   <img src="https://img.shields.io/badge/HackerRank-12100E?style=for-the-badge&logo=hackerrank&logoColor=white" height=25>
 </a>
-  <a href="https://www.hackerearth.com/Niloy_Das_19">
+  <a href="https://www.hackerearth.com/@Niloy_Das_19">
   <img src="https://img.shields.io/badge/HackerEarth-12100E?style=for-the-badge&logo=hackerearth&logoColor=white" height=25>
 </a>
 </p>

@@ -45,10 +45,14 @@
   <a href="https://www.codechef.com/users/niloy01">
   <img src="https://img.shields.io/badge/Codechef-12100E?style=for-the-badge&logo=codechef&logoColor=white" height=25>
 </a>
-  <a href="https://www.hackerrank.com/Niloy_Das_19">
+</a>
+  <a href="https://atcoder.jp/users/Niloy_Das_19">
+  <img src="https://img.shields.io/badge/atcoder-12100E?style=for-the-badge&logo=atcoder&logoColor=white" height=25>
+</a>
+<a href="https://www.hackerrank.com/Niloy_Das_19">
   <img src="https://img.shields.io/badge/HackerRank-12100E?style=for-the-badge&logo=hackerrank&logoColor=white" height=25>
 </a>
-  <a href="https://www.hackerearth.com/@Niloy_Das_19">
+<a href="https://www.hackerearth.com/@Niloy_Das_19">
   <img src="https://img.shields.io/badge/HackerEarth-12100E?style=for-the-badge&logo=hackerearth&logoColor=white" height=25>
 </a>
 </p>

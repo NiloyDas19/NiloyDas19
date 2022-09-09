@@ -4,8 +4,14 @@
   <a href="https://leetcode.com/Niloy_Das_19/">
     <img src="https://cp-logo.vercel.app/leetcode/Niloy_Das_19" alt="Leet code rating" />
   </a>
-<a href="https://codeforces.com/profile/Niloy_Das_19">
+  <a href="https://codeforces.com/profile/Niloy_Das_19">
     <img src="https://raw.githubusercontent.com/NiloyDas19/cf-stats/main/output/max_rating.svg" alt="CF rating" />
+  </a>
+  <a href="https://www.codechef.com/users/niloy01">
+    <img src="https://img.shields.io/badge/CodeChef-2141-yellow" alt="CC rating" />
+  </a>
+  <a href="https://atcoder.jp/users/Niloy_Das_19">
+    <img src="https://cp-logo.vercel.app/atcoder/Niloy_Das_19" alt="Atcoder rating" />
   </a>
   <a href="https://github.com/NiloyDas19?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/NiloyDas19?color=green&logo=github">

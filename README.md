@@ -31,7 +31,7 @@
 
 - 🏢 I'm currently a **Student**
 - ⚙️ I use daily: `.cpp`
-- 🌍 I'm mostly active within the **Cpusplus Community**
+- 🌍 I'm mostly active within the **Cplusplus Community**
 - 🌱 Learning all about **Competive Programming**
 
 #### Connect With Me

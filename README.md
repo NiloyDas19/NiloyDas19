@@ -23,7 +23,7 @@
 
 #### Now
 
-- ✨ 2nd year Undergraduate Student
+- ✨ 3rd year Undergraduate Student
 - :fire: Interested in Competitive Programming;
 - :calendar: Looking for contributing to web based open source projects 
 

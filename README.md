@@ -1,5 +1,17 @@
-## Hi 👋, I'm Niloy Das, a passionate Competitive Programmer from Bangladesh
+![logo](https://github.com/NiloyDas19/NiloyDas19/blob/main/img/LinkedIn%20Banner.png)
 
+<h1 align = "center"> Hi 👋, I'm Niloy Das</h1>
+<h3 align = "center">A passionate Competitive Programmer and Junior Full-Stack devoloper (MERN) from Bangladesh </h3>
+<p align = "center">
+  I am actively seeking opportunities as a Junior Software Engineer or Junior Full-Stack Developer. I am particularly interested in roles where I can:
+
+  - Contribute to innovative projects and real-world applications.
+  - Collaborate with talented and experienced professionals to gain valuable insights.
+  - Enhance my technical skills and knowledge in software development and full-stack technologies.
+  - Tackle challenging problems and deliver efficient, scalable solutions.
+
+If you have a position that aligns with my skills and career aspirations, I would love to connect and discuss how I can be a valuable addition to your team.
+</p>
 <p align="left">
   <a href="https://leetcode.com/Niloy_Das_19/">
     <img src="https://cp-logo.vercel.app/leetcode/Niloy_Das_19" alt="Leet code rating" />
@@ -36,7 +48,7 @@
 
 #### Connect With Me
 <p left="center">
-<a href="https://www.linkedin.com/in//">
+<a href="https://www.linkedin.com/in/niloydas19/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 <a href="https://www.facebook.com/NiloyDas19/">
@@ -65,7 +77,7 @@
 
 #### Languages and Tools:
 
-<img height="35" src="img/cpp.svg" alt="cpp"><img height="35" src="img/mysql.svg" alt="sql"> <img height="35" src="img/java.svg" alt="java"> <img height="35" src="img/as.svg" alt="as"> <img height="35" src="img/py.svg" alt="py"> <img height="35" src="img/ai.svg" alt="ai">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="35"/> <img height="35" src="img/cpp.svg" alt="cpp"><img height="35" src="img/mysql.svg" alt="sql"> <img height="35" src="img/java.svg" alt="java"> <img height="35" src="img/as.svg" alt="as"> <img height="35" src="img/py.svg" alt="py"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/><img height="35" src="img/react-original.svg" alt="reactjs"> <img height="35" src="img/nodejs.png" alt="nodejs"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="35"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="35"/> 
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>

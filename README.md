@@ -93,7 +93,7 @@ If you have a position that aligns with my skills and career aspirations, I woul
 <img height="280em" src="https://raw.githubusercontent.com/NiloyDas19/cf-stats/main/output/light_card.svg" />
 </p>
 
-
+[![An image of @niloydas19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niloydas19)](https://holopin.io/@niloydas19)
 
 ### GitHub Streak
 

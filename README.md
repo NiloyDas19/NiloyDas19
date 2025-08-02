@@ -41,8 +41,8 @@ If you have a position that aligns with my skills and career aspirations, I woul
 
 #### Bio
 
-- 🏢 I'm currently a **Student**
-- ⚙️ I use daily: `.cpp`
+- 🏢 I’m currently working at jeda.ai as a Junior Full Stack Software Engineer.
+- ⚙️ I use daily: `.js, .cpp`
 - 🌍 I'm mostly active within the **Cplusplus Community**
 - 🌱 Learning all about **Competive Programming**
 

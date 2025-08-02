@@ -35,7 +35,7 @@ If you have a position that aligns with my skills and career aspirations, I woul
 
 #### Now
 
-- ✨ 4th year Undergraduate Student
+- ✨ Junior Full Stack Software Engineer @jeda.ai
 - :fire: Interested in Competitive Programming;
 - :calendar: Looking for contributing to web based open source projects 
 

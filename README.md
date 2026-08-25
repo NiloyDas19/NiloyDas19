@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a192f,100:00D9FF&height=200&section=header&text=Niloy%20Das&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Software%20Engineer&descAlignY=62&descColor=94A3B8&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a192f,100:00D9FF&height=200&section=header&text=Niloy%20Das&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descColor=94A3B8&descSize=20" />
 
 <h1 align="center">Hi 👋, I'm Niloy Das</h1>
-<h3 align="center">Junior Full-Stack Software Engineer & Competitive Programmer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Full-Stack Software Engineer & Competitive Programmer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   I am actively seeking opportunities as a Junior Software Engineer or Junior Full-Stack Developer. I am particularly interested in roles where I can:<br/><br/>
@@ -22,7 +22,7 @@
 
 #### Now
 
-- ✨ Junior Full Stack Software Engineer @ jeda.ai (US-based, Remote 🌐)
+- ✨ Full Stack Software Engineer @ jeda.ai (US-based, Remote 🌐)
 - 🤖 Enthusiastic about AI and its applications
 - 📅 Open to contributing to open-source and innovative projects
 

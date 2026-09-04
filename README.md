@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Software Engineer & Competitive Programmer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  I am actively seeking opportunities as a Junior Software Engineer or Junior Full-Stack Developer. I am particularly interested in roles where I can:<br/><br/>
+  I am actively seeking opportunities as a Software Engineer or Full-Stack Developer. I am particularly interested in roles where I can:<br/><br/>
   Contribute to innovative projects and real-world applications.<br/>
   Collaborate with talented and experienced professionals to gain valuable insights.<br/>
   Enhance my technical skills and knowledge in software development and full-stack technologies.<br/>
